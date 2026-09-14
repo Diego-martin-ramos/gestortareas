@@ -1,0 +1,24 @@
+# Dependencias
+node_modules/
+jspm_packages/
+
+# Entornos y configuración local
+.env
+.env.local
+.env.*.local
+
+# Archivos de compilación y distribución
+dist/
+build/
+*.out
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs y bases de datos locales
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.sqlite
