@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Practicando control de versiones (Gestor de tareas)
  */
 public class App {
-	
+	// prueba de cambio
 	private static final Scanner scanner = new Scanner(System.in);
 	private static final GestorTareas gestor = new GestorTareas();
 	
