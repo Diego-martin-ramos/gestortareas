@@ -1,7 +1,7 @@
 package org.example.app
 
 fun main() {
-    val nombre = "Juan Pérez"
+    val nombre = "Diego Martin"
     val direccion = "Calle Mayor 12, 3ºA"
     val telefono = "600 000 000"
 
