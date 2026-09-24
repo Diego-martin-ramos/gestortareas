@@ -1,6 +1,6 @@
 package org.example.app
 
 fun main() {
-    val nombre = "Juan Pérez"
+    val nombre = "Diego Martín"
     println(nombre)
 }
